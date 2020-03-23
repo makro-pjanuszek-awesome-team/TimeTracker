@@ -1,0 +1,4 @@
+.git
+time-tracker/node_modules
+time-tracker/package-lock.json
+build
